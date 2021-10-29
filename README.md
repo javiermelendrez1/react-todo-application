@@ -10,17 +10,17 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- I created this project using React. For the styling I used a combination of  MaterialUI and styled-components.
+- I created this project to practice creating CRUD(CREATE-READ-UPDATE-DELETE) applications.
+- Challenges I faced.
+  - Initially I had trouble marking individual tasks as completed and deleting individual tasks.
+  - I learned that assigning and using unique a ID can help specify which tasks you would like to interact with.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
@@ -73,4 +73,4 @@ Give credit here.
 
 
 ## Contact
-Created by [@javi](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@javi](https://javiermelendrez.com/) - feel free to contact me!
