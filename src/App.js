@@ -37,6 +37,8 @@ function App() {
     appContainer: {
       backgroundImage: darkMode ? `url(${DARKBG})` : `url(${LIGHTBG})`,
       backgroundRepeat: `no-repeat`,
+      backgroundPosition: 'center',
+      backgroundSize: 'cover',
       height: '325px',
       paddingTop: '50px'
     },
